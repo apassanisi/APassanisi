@@ -12,7 +12,7 @@
   </a>
 </div>
 <div style="max-width: 475px; margin: 8px 0 16px 0">
-<a href="https://github.com/APassanisi" style="border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
+<div href="https://github.com/APassanisi" style="border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
   <div>
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
@@ -22,8 +22,8 @@
     <p style="font-size: 16px; font-weight: bold; margin: 0px 0;">Static Web</p>
     <p style="font-size: 12px; margin: 0;">Genentech Access, Delta Dental, Empire Cat, ...more</p>
   </div>
-</a>
-<a href="https://github.com/APassanisi" style="margin: 8px 0px; border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
+</div>
+<div href="https://github.com/APassanisi" style="margin: 8px 0px; border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
   <div>
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
@@ -33,8 +33,8 @@
     <p style="font-size: 16px; font-weight: bold; margin: 0px 0;">React.js</p>
     <p style="font-size: 12px; margin: 0;">WoTSource.com, Streameow, Weather App, ...more</p>
   </div>
-</a>
-<a href="https://github.com/APassanisi" style="border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
+</div>
+<div href="https://github.com/APassanisi" style="border: 1px solid #e4e2e2; border-radius: 4px; background-color: #282828; padding: 8px; display: flex; justify-content: space-between; align-items: center;">
   <div>
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
     <img src="https://plchldr.co/i/25x25?bg=06bcee">
@@ -44,7 +44,7 @@
     <p style="font-size: 16px; font-weight: bold; margin: 0px 0;">Vue.js</p>
     <p style="font-size: 12px; margin: 0;">SkillTree, TodoApp, Pillars, ...more</p>
   </div>
-</a>
+</div>
 </div>
 
 <div style="max-width: 475px; padding-bottom: 8px;">
