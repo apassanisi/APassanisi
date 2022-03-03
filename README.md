@@ -10,18 +10,14 @@
   </a>
 
 ![APassanisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=apassanisi&hide=contribs,stars&count_private=true&show_icons=true&theme=gruvbox&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apassanisi&theme=gruvbox&hide=html&layout=compact)](https://github.com/apassanisi/github-readme-stats)
 
-<div>
+| Technology                                                                                                                                                                                                                                             |             Project |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------: |
+| <img src="https://shields.io/badge/Vue3-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square"/>                                                                                  | AndrewPassanisi.com |
+| <img src="https://shields.io/badge/React-gray?logo=react&style=flat-square"/> <img src="https://shields.io/badge/Vue3-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square"/>    |             Pillars |
+| <img src="https://shields.io/badge/Node.js-gray?logo=node.js&style=flat-square" /> <img src="https://shields.io/badge/NPM-gray?logo=npm&style=flat-square"/>                                                                                           |        VandalHandle |
+| <img src="https://shields.io/badge/Vue2-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/AmazonAWS-gray?logo=amazonaws&style=flat-square"/> <img src="https://shields.io/badge/Node.js-gray?logo=node.js&style=flat-square" /> |          Empire Cat |
+| <img src="https://shields.io/badge/HTML5-gray?logo=html5&style=flat-square"/> <img src="https://shields.io/badge/SCSS-gray?logo=sass&style=flat-square"/>                                                                                              |    Genentech Access |
+| <img src="https://shields.io/badge/HTML5-gray?logo=html5&style=flat-square"/> <img src="https://shields.io/badge/SCSS-gray?logo=sass&style=flat-square"/>                                                                                              |    Delta Dental INS |
 
-| Technology                                                                                                                                                                                                                                             |     |             Project |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------: |
-| <img src="https://shields.io/badge/Vue3-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square"/>                                                                                  |     | AndrewPassanisi.com |
-| <img src="https://shields.io/badge/React-gray?logo=react&style=flat-square"/> <img src="https://shields.io/badge/Vue3-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square"/>    |     |             Pillars |
-| <img src="https://shields.io/badge/Node.js-gray?logo=node.js&style=flat-square" /> <img src="https://shields.io/badge/NPM-gray?logo=npm&style=flat-square"/>                                                                                           |     |        VandalHandle |
-| <img src="https://shields.io/badge/Vue2-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/AmazonAWS-gray?logo=amazonaws&style=flat-square"/> <img src="https://shields.io/badge/Node.js-gray?logo=node.js&style=flat-square" /> |     |          Empire Cat |
-| <img src="https://shields.io/badge/HTML5-gray?logo=html5&style=flat-square"/> <img src="https://shields.io/badge/SCSS-gray?logo=sass&style=flat-square"/>                                                                                              |     |    Genentech Access |
-| <img src="https://shields.io/badge/HTML5-gray?logo=html5&style=flat-square"/> <img src="https://shields.io/badge/SCSS-gray?logo=sass&style=flat-square"/>                                                                                              |     |    Delta Dental INS |
-
-</div>
 </div>
