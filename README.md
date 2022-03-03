@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div>
     <a href="https://www.linkedin.com/in/andrew-passanisi-b93ab48a/">
     <img src="https://img.shields.io/badge/-APassanisi-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
