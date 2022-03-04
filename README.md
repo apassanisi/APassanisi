@@ -10,9 +10,8 @@
   </a>
 
 <br>
-
-![APassanisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=apassanisi&hide=contribs,stars&count_private=true&show_icons=true&theme=gruvbox&layout=compact)
-
+    
+    
 | Technology                                                                                                                                                                                                                                                                                                           |                                                                                     Project |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------: |
 | <a href="https://github.com/APassanisi/andrewpassanisi.com"><img src="https://shields.io/badge/Vue3-gray?logo=vue.js&style=flat-square"/> <img src="https://shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square"/></a>                                                                       | <a href="https://github.com/APassanisi/andrewpassanisi.com">AndrewPassanisi.com</a> |
