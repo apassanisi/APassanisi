@@ -9,7 +9,3 @@
     <img src="https://shields.io/badge/Resume-grey?logo=adobeacrobatreader&style=for-the-badge" alt="Resume"/>
   </a>
 </div>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apassanisi&layout=compact&theme=gruvbox" />
-</div>
