@@ -8,7 +8,5 @@
   <a href="https://passanisiandrewresume.tiiny.site">
     <img src="https://shields.io/badge/Resume-grey?logo=adobeacrobatreader&style=for-the-badge" alt="Resume"/>
   </a>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apassanisi&hide=html,css&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
 </div>
